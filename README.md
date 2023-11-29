@@ -1,2 +1,2 @@
 # blog
-create a personal blog system using flask architecture
+Personal blog system implemented via flask architecture.
